@@ -106,7 +106,7 @@ Parameters:
 
 Success response (http code 200):
 
-``
+```
 {
     "id": 147,
     "title": "Dune 2",
@@ -120,4 +120,4 @@ Success response (http code 200):
     "plot": "",
     "posterUrl": ""
 }
-``
+```
