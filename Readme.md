@@ -26,7 +26,7 @@ none
 
 Success response (http code 200):
 
-``
+```
 {
     "status": "online",
     "name": "movies-json",
@@ -34,7 +34,7 @@ Success response (http code 200):
     "port": 80,
     "upTime": 2
 }
-``
+```
 
 
 #### GET /movies
@@ -50,7 +50,7 @@ Parameters:
 
 Success response (http code 200):
 
-``
+```
 [
     {
         "id": 22,
@@ -83,7 +83,7 @@ Success response (http code 200):
         "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg"
     }
 ]
-``
+```
 
 
 #### POST /movies
