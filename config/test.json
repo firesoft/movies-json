@@ -1,0 +1,6 @@
+{
+    "database": {
+        "src": "./src/tests/db.json",
+        "readonly": true
+    }
+}
