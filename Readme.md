@@ -10,6 +10,7 @@ Remarks:
 - todo: add swagger-jsdoc
 - todo: add posterUrl validation
 - todo: move genres validation from validator to service
+- todo: use helmet
 
 Api specs
 ---------
